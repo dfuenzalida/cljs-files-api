@@ -15,6 +15,8 @@ yarn shadow-cljs watch app
 
 `:dev-http` specifies that `target/` will be served at http://localhost:8080 .
 
+Click on the file selector to feed the page a file. The code will display the filename, size, mime-type and the first 100 bytes of the file.
+
 ### REPL
 
 After page is loaded, you may also start a REPL connected to browser with:
